@@ -1,0 +1,1 @@
+Scripts referenced are located in the Landing section. Scripts convert data based on project requirements from Landing to Trusted.
